@@ -76,7 +76,7 @@ CompileX/
 1. Clone the repository:
 
 ```bash id="j2vhxf"
-git clone https://github.com/SUSPECT-911/Compile-X-Online-Code-compiler.git
+git clone https://github.com/nageshl-12/Compile-X-Online-Code-compiler.git
 ```
 
 2. Go to project folder:
@@ -121,7 +121,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Simon Riley**
+**Nageshl**
 
 ---
 
