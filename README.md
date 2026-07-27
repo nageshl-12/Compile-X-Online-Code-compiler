@@ -39,24 +39,31 @@ CompileX - Online Code Compiler supporting Java, JavaScript, Python, C, C++, C#,
 
 ## 🛠 Tech Stack
 
-### Frontend
+## 🛠️ Tech Stack
 
-* React.js
-* Vite
+### 🎨 Frontend
 
-### Backend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
 
-* Node.js
-* Express.js
-* WebSockets
+### ⚙️ Backend
 
-### Deployment (Planned / Optional)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+</p>
 
-* AWS EC2
-* Nginx
-* PM2
-* Domain & SSL
+### ☁️ Deployment 
 
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSL-0052CC?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</p>
 ---
 
 ## 📂 Project Structure
